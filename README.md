@@ -84,8 +84,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |         Skip   |       Not interested in game development       |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |          Complete!  |      https://www.khanacademy.org/computing/computer-programming/html-css-js        |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |          Complete!  |       Basic Blog: https://github.com/toastytortilla/toastytortilla.github.io/blob/main/index.html
-Simple JS Game: https://www.khanacademy.org/computer-programming/brik-breakr/4930263430676480       |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |          Complete!  |       Basic Blog: https://github.com/toastytortilla/toastytortilla.github.io/blob/main/index.html Simple JS Game: https://www.khanacademy.org/computer-programming/brik-breakr/4930263430676480       |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
