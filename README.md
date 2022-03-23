@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |    In Progress    |     https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:exponential-growth-decay     |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |    In Progress    |     https://www.khanacademy.org/math/algebra/x2f8bb11595b61c86:quadratics-multiplying-factoring     |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |    In Progress    |     https://www.khanacademy.org/math/algebra2     |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
@@ -93,7 +93,7 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
 | Welcome To Coding                                                                                                                                                     |          Complete!  |      https://open.appacademy.io/learn/full-stack-online/intro-to-programming/course-recap--business-card-advice        |
-| Full Stack Online - Intro to Programming                                                                                                                              |     In Progress       |       https://open.appacademy.io/learn/full-stack-online/intro-to-programming/to-initials       |
+| Full Stack Online - Intro to Programming                                                                                                                              |     In Progress       |       https://open.appacademy.io/learn/full-stack-online/intro-to-programming/format-name       |
 | Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
